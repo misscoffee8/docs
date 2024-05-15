@@ -1,5 +1,5 @@
 ---
-title: Customizing how changed files appear on GitHub
+title: Customizing how changed files appear on GitHub/and add certin securities to web pages**
 intro: 'To keep certain files from displaying in diffs by default, or counting toward the repository language, you can mark them with the `linguist-generated` attribute in a *.gitattributes* file.'
 redirect_from:
   - /articles/customizing-how-changed-files-appear-on-github
@@ -28,3 +28,11 @@ Use a _.gitattributes_ file to mark files that match a given "pattern" with the 
 
 - "[Generated code](https://github.com/github-linguist/linguist/blob/master/docs/overrides.md#generated-code)" in the Linguist documentation
 - "[AUTOTITLE](/repositories/working-with-files/managing-files/creating-new-files)"
+permissions:
+  id-token: write
+  attestations: write
+  **headline**
+  Hello and welcome all who distributed to helping get this project up and functioning>
+  *body*
+  All participents/ And donors of this platform.
+   
